@@ -22,7 +22,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:support-annotations:27.0.1'
-    compile 'com.github.mariotaku.ObjectCursor:core:0.9.21'
+    compile 'com.github.Tlaster.ObjectCursor:core:0.9.23'
 
     provided project(':logansquare')
     androidTestCompile 'junit:junit:4.12'
