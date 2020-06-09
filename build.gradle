@@ -16,8 +16,8 @@ buildscript {
 }
 
 subprojects {
-    group 'com.github.mariotaku.CommonsLibrary'
-    version '0.9.22'
+    group 'com.github.tlaster.CommonsLibrary'
+    version '0.9.23'
 
     repositories {
         mavenLocal()
